@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "twitter no ads",
     "version": "1.0",
-    "description": "Appending a line of CSS to set the display of the ads to none. ",
+    "description": "Hiding ads, extension source code: https://github.com/FatlumLatifi/twitternoads",
     "permissions": [
      "https://x.com/*"
     ],

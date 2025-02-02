@@ -20,9 +20,6 @@ function findArticleFather(element)
 }
 
 
-
-
-
 setTimeout(removeAds, 500);
 setTimeout(removeAds, 1000);
 setTimeout(removeAds, 1500);
@@ -30,6 +27,3 @@ setTimeout(removeAds, 2500);
 setTimeout(removeAds, 5000);
 setTimeout(removeAds, 7000);
 window.setInterval(removeAds, 15000);
-
-
-
